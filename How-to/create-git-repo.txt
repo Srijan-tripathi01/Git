@@ -1,1 +1,5 @@
- 
+Create a folder(directory)
+Open the diretory path in git bash
+now write command:-
+    git init
+This command will make a local folder in to repository(local) 
