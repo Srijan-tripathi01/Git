@@ -1,0 +1,25 @@
+1.cd <directory name> -> Navigate to the desired directory while we are in default directory.
+	cd~ -> goes to default directory
+	cd .. -> goes one directory up.
+	cd ../.. -> goes two directory up.
+ 
+2.pwd ->to check the current directory.
+
+3.touch <filename.withextension>-> create new file
+
+4. mkdir <foldername> -> create a new folder.
+
+5.mv <oldfilename> <newfilename> -> rename file
+
+6.ls ->List item in present directory.
+	ls -a -> also shows hidden item.
+
+7.cp <filename> <directory> ->copy file to given directory;
+
+8.rm <fielname> ->remove/delete file.
+
+9.rm -rf <folername> -> to delete folder
+
+10. clear -> clear screen or CTRL + L.
+
+11.Tab for auto -fill.
